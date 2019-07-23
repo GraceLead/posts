@@ -2,6 +2,5 @@
     "editor.fontFamily": "Avenir",
     "editor.fontLigatures": true,
     "editor.fontSize": 18,
-    "editor.tabSize": 2,
     "editor.wordWrap": "wordWrapColumn"
 }
